@@ -85,6 +85,7 @@
 ## 22. Interpreter
 **Definição**: O padrão Interpreter define uma gramática para uma linguagem e fornece um interpretador para avaliar sentenças nessa linguagem.
 **Quando usar**: Quando você precisa interpretar sentenças em uma linguagem específica, como expressões matemáticas, consultas simples ou regras de negócio.
+
 ---
 
 ## Resumo
