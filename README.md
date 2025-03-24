@@ -82,6 +82,9 @@
 **Definição**: Permite adicionar novas operações a objetos de uma estrutura sem modificar as classes dos objetos.  
 **Quando usar**: Quando você precisa realizar operações sobre objetos de uma estrutura de objetos (como uma árvore de objetos) e quer evitar modificar as classes dos objetos.
 
+## 22. Interpreter
+**Definição**: O padrão Interpreter define uma gramática para uma linguagem e fornece um interpretador para avaliar sentenças nessa linguagem.
+**Quando usar**: Quando você precisa interpretar sentenças em uma linguagem específica, como expressões matemáticas, consultas simples ou regras de negócio.
 ---
 
 ## Resumo
